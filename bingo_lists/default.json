@@ -424,15 +424,8 @@
       },
       {
         "item_names": [
-          "CHAIN",
           "COPPER_CHAIN",
-          "EXPOSED_COPPER_CHAIN",
-          "WEATHERED_COPPER_CHAIN",
-          "OXIDIZED_COPPER_CHAIN",
-          "WAXED_COPPER_CHAIN",
-          "WAXED_EXPOSED_COPPER_CHAIN",
-          "WAXED_WEATHERED_COPPER_CHAIN",
-          "WAXED_OXIDIZED_COPPER_CHAIN"
+          "IRON_CHAIN"
         ],
         "choosing": 1,
         "found_in_biomes": [
