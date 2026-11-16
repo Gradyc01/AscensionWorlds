@@ -1460,10 +1460,6 @@
       },
       {
         "item_names": [
-          "BAMBOO_LOG",
-          "BAMBOO_WOOD",
-          "STRIPPED_BAMBOO_LOG",
-          "STRIPPED_BAMBOO_WOOD",
           "BAMBOO_PLANKS",
           "BAMBOO_STAIRS",
           "BAMBOO_SLAB",
@@ -1474,14 +1470,13 @@
           "BAMBOO_BUTTON",
           "BAMBOO_PRESSURE_PLATE",
           "BAMBOO_SIGN",
-          "BAMBOO_SHELF",
           "BAMBOO",
           "BAMBOO_BLOCK",
-          "STRIPPED_BAMBOO_BLOCK",
           "BAMBOO_MOSAIC",
           "BAMBOO_MOSAIC_STAIRS",
           "BAMBOO_MOSAIC_SLAB",
-          "BAMBOO_HANGING_SIGN"
+          "BAMBOO_HANGING_SIGN",
+          "BAMBOO_SHELF"
         ],
         "choosing": 1,
         "found_in_biomes": [
