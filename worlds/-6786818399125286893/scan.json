@@ -1,0 +1,38 @@
+{
+  "world": "world",
+  "complete": true,
+  "generatedAt": "2026-11-21T04:49:10.159806600Z",
+  "center": {"x": 0, "z": 0},
+  "radius": 512,
+  "bounds": {"minX": -512, "maxX": 512, "minZ": -512, "maxZ": 512},
+  "biomes": {
+    "minecraft:cherry_grove": {"chunks": 31, "example": {"x": -242, "y": -62, "z": -290}},
+    "minecraft:dappled_forest": {"chunks": 322, "example": {"x": 394, "y": -62, "z": -510}},
+    "minecraft:dark_forest": {"chunks": 199, "example": {"x": -166, "y": -62, "z": -510}},
+    "minecraft:deep_dark": {"chunks": 369, "example": {"x": -410, "y": -62, "z": 94}},
+    "minecraft:dripstone_caves": {"chunks": 2244, "example": {"x": -510, "y": -6, "z": -510}},
+    "minecraft:frozen_river": {"chunks": 169, "example": {"x": -410, "y": -62, "z": -510}},
+    "minecraft:grove": {"chunks": 143, "example": {"x": -458, "y": -10, "z": 170}},
+    "minecraft:ice_spikes": {"chunks": 453, "example": {"x": -346, "y": -62, "z": -510}},
+    "minecraft:lush_caves": {"chunks": 497, "example": {"x": -146, "y": -22, "z": -510}},
+    "minecraft:old_growth_birch_forest": {"chunks": 276, "example": {"x": 214, "y": -62, "z": -498}},
+    "minecraft:pale_garden": {"chunks": 44, "example": {"x": -62, "y": -62, "z": 414}},
+    "minecraft:plains": {"chunks": 1476, "example": {"x": -270, "y": -62, "z": -510}},
+    "minecraft:river": {"chunks": 367, "example": {"x": 18, "y": -62, "z": -506}},
+    "minecraft:snowy_plains": {"chunks": 598, "example": {"x": -446, "y": -62, "z": -510}},
+    "minecraft:snowy_taiga": {"chunks": 989, "example": {"x": -398, "y": -62, "z": -510}},
+    "minecraft:taiga": {"chunks": 352, "example": {"x": -510, "y": -62, "z": -510}}
+  },
+  "structures": {
+    "minecraft:abandoned_camp_taiga": {"count": 1, "locations": [{"x": 209, "y": 72, "z": -420}]},
+    "minecraft:ancient_city": {"count": 1, "locations": [{"x": -352, "y": -37, "z": 209}]},
+    "minecraft:igloo": {"count": 3, "locations": [{"x": -460, "y": 92, "z": -251}, {"x": -317, "y": 77, "z": 151}, {"x": 195, "y": 92, "z": 291}]},
+    "minecraft:mineshaft": {"count": 17, "locations": [{"x": 239, "y": 23, "z": -464}, {"x": -38, "y": 23, "z": -355}, {"x": 479, "y": 4, "z": -358}, {"x": -501, "y": 13, "z": -321}, {"x": 124, "y": -6, "z": -295}, {"x": -341, "y": 30, "z": -272}, {"x": 393, "y": 38, "z": -211}, {"x": 457, "y": 8, "z": -105}, {"x": -80, "y": 10, "z": -105}, {"x": 477, "y": -47, "z": -11}, {"x": 84, "y": 31, "z": 88}, {"x": -101, "y": -23, "z": 293}, {"x": 334, "y": -16, "z": 259}, {"x": 491, "y": 13, "z": 351}, {"x": -478, "y": -22, "z": 401}, {"x": 41, "y": -25, "z": 393}, {"x": -209, "y": 23, "z": 496}]},
+    "minecraft:pillager_outpost": {"count": 1, "locations": [{"x": 215, "y": 82, "z": -232}]},
+    "minecraft:ruined_portal": {"count": 4, "locations": [{"x": 313, "y": 75, "z": -380}, {"x": -397, "y": 6, "z": -316}, {"x": -430, "y": 133, "z": 291}, {"x": 158, "y": -27, "z": 355}]},
+    "minecraft:trail_ruins": {"count": 3, "locations": [{"x": -303, "y": 52, "z": -465}, {"x": -178, "y": 58, "z": 160}, {"x": 208, "y": 58, "z": 239}]},
+    "minecraft:trial_chambers": {"count": 4, "locations": [{"x": -253, "y": -21, "z": -319}, {"x": 61, "y": -5, "z": -252}, {"x": 17, "y": -25, "z": 4}, {"x": -226, "y": -14, "z": 126}]},
+    "minecraft:village_plains": {"count": 1, "locations": [{"x": 211, "y": 81, "z": 382}]},
+    "minecraft:village_taiga": {"count": 1, "locations": [{"x": -234, "y": 73, "z": 347}]}
+  }
+}

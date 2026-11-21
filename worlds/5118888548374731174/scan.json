@@ -1,0 +1,70 @@
+{
+  "overworld": {
+    "world": "world",
+    "complete": true,
+    "generatedAt": "2026-11-21T05:28:58.587368300Z",
+    "center": {"x": 0, "z": 0},
+    "radius": 512,
+    "bounds": {"minX": -512, "maxX": 512, "minZ": -512, "maxZ": 512},
+    "biomes": {
+      "minecraft:badlands": {"chunks": 50, "example": {"x": -18, "y": -62, "z": 362}},
+      "minecraft:bamboo_jungle": {"chunks": 39, "example": {"x": -154, "y": -62, "z": 78}},
+      "minecraft:cherry_grove": {"chunks": 71, "example": {"x": -382, "y": -62, "z": -114}},
+      "minecraft:dappled_forest": {"chunks": 313, "example": {"x": -122, "y": -62, "z": -510}},
+      "minecraft:dark_forest": {"chunks": 394, "example": {"x": -494, "y": -62, "z": -502}},
+      "minecraft:deep_dark": {"chunks": 16, "example": {"x": -298, "y": -62, "z": 478}},
+      "minecraft:desert": {"chunks": 241, "example": {"x": 34, "y": -62, "z": 230}},
+      "minecraft:eroded_badlands": {"chunks": 124, "example": {"x": 382, "y": -62, "z": -502}},
+      "minecraft:flower_forest": {"chunks": 35, "example": {"x": 250, "y": -62, "z": -510}},
+      "minecraft:ice_spikes": {"chunks": 175, "example": {"x": 186, "y": -62, "z": -178}},
+      "minecraft:jungle": {"chunks": 22, "example": {"x": -38, "y": -62, "z": 126}},
+      "minecraft:lush_caves": {"chunks": 566, "example": {"x": -482, "y": -6, "z": -502}},
+      "minecraft:old_growth_birch_forest": {"chunks": 22, "example": {"x": -114, "y": -62, "z": -54}},
+      "minecraft:pale_garden": {"chunks": 10, "example": {"x": 502, "y": -62, "z": 206}},
+      "minecraft:plains": {"chunks": 1820, "example": {"x": -510, "y": -62, "z": -510}},
+      "minecraft:river": {"chunks": 573, "example": {"x": -494, "y": -62, "z": -510}},
+      "minecraft:savanna": {"chunks": 512, "example": {"x": 314, "y": -62, "z": -510}},
+      "minecraft:snowy_plains": {"chunks": 10, "example": {"x": 482, "y": -62, "z": 122}},
+      "minecraft:snowy_taiga": {"chunks": 10, "example": {"x": 466, "y": -62, "z": 142}},
+      "minecraft:sparse_jungle": {"chunks": 469, "example": {"x": -90, "y": -62, "z": -34}},
+      "minecraft:sunflower_plains": {"chunks": 515, "example": {"x": -54, "y": -62, "z": -498}},
+      "minecraft:wooded_badlands": {"chunks": 14, "example": {"x": -50, "y": -62, "z": 234}}
+    },
+    "structures": {
+      "minecraft:mineshaft": {"count": 30, "locations": [{"x": -269, "y": -46, "z": -462}, {"x": -109, "y": -22, "z": -422}, {"x": 410, "y": 24, "z": -338}, {"x": -326, "y": -39, "z": -323}, {"x": -492, "y": -4, "z": -309}, {"x": -180, "y": -47, "z": -184}, {"x": -7, "y": 2, "z": -228}, {"x": 194, "y": 10, "z": -163}, {"x": -96, "y": -30, "z": -67}, {"x": -74, "y": -30, "z": -64}, {"x": -266, "y": -20, "z": -42}, {"x": 24, "y": -28, "z": -7}, {"x": 257, "y": -41, "z": -4}, {"x": -8, "y": -28, "z": 25}, {"x": -426, "y": -47, "z": -11}, {"x": -223, "y": -41, "z": 28}, {"x": 86, "y": -30, "z": 32}, {"x": -476, "y": 37, "z": -15}, {"x": 512, "y": -14, "z": -20}, {"x": 419, "y": -24, "z": 24}, {"x": 284, "y": 35, "z": 42}, {"x": 111, "y": 0, "z": 104}, {"x": -477, "y": 27, "z": 46}, {"x": 204, "y": -47, "z": 200}, {"x": -158, "y": 10, "z": 189}, {"x": -399, "y": 17, "z": 350}, {"x": 346, "y": 13, "z": 309}, {"x": 115, "y": -22, "z": 442}, {"x": 268, "y": 23, "z": 464}, {"x": -285, "y": -52, "z": 512}]},
+      "minecraft:ruined_portal": {"count": 3, "locations": [{"x": 46, "y": -27, "z": -429}, {"x": 358, "y": 3, "z": 181}, {"x": -491, "y": 4, "z": 388}]},
+      "minecraft:trial_chambers": {"count": 4, "locations": [{"x": 143, "y": -1, "z": -485}, {"x": -426, "y": -29, "z": -225}, {"x": 133, "y": -7, "z": -19}, {"x": -414, "y": -11, "z": 84}]},
+      "minecraft:village_savanna": {"count": 1, "locations": [{"x": 205, "y": 72, "z": 299}]}
+    }
+  },
+  "nether": {
+    "world": "world_nether",
+    "complete": true,
+    "generatedAt": "2026-11-21T05:29:00.198190800Z",
+    "center": {"x": 0, "z": 0},
+    "radius": 128,
+    "bounds": {"minX": -128, "maxX": 128, "minZ": -128, "maxZ": 128},
+    "biomes": {
+      "minecraft:basalt_deltas": {"chunks": 72, "example": {"x": 106, "y": 2, "z": -114}},
+      "minecraft:crimson_forest": {"chunks": 73, "example": {"x": -102, "y": 2, "z": -126}},
+      "minecraft:nether_wastes": {"chunks": 168, "example": {"x": -126, "y": 2, "z": -114}},
+      "minecraft:soul_sand_valley": {"chunks": 75, "example": {"x": -102, "y": 2, "z": -114}},
+      "minecraft:warped_forest": {"chunks": 12, "example": {"x": -126, "y": 2, "z": -126}}
+    },
+    "structures": {
+      "minecraft:nether_fossil": {"count": 5, "locations": [{"x": 69, "y": 78, "z": -61}, {"x": 127, "y": 68, "z": 6}, {"x": -18, "y": 53, "z": 73}, {"x": 97, "y": 75, "z": 80}, {"x": 99, "y": 45, "z": 98}]}
+    }
+  },
+  "end": {
+    "world": "world_the_end",
+    "complete": true,
+    "generatedAt": "2026-11-21T05:29:01.133602900Z",
+    "center": {"x": 0, "z": 0},
+    "radius": 64,
+    "bounds": {"minX": -64, "maxX": 64, "minZ": -64, "maxZ": 64},
+    "biomes": {
+      "minecraft:the_end": {"chunks": 64, "example": {"x": 2, "y": 2, "z": 2}}
+    },
+    "structures": {}
+  }
+}
