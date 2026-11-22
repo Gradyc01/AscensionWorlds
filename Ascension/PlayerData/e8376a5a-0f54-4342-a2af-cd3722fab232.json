@@ -1,1 +1,15 @@
-{"kills":0,"wins":0,"total_game_score":0,"inventory_refreshes":0,"items_obtained":20,"losses":0,"deaths":0,"name":"AyeDu","food_drops":true,"night_vision":true,"auto_tome":true,"auto_purchase_unlocks":true,"craft_notifications":true}
+{
+    "kills": 0,
+    "wins": 0,
+    "total_game_score": 0,
+    "inventory_refreshes": 0,
+    "items_obtained": 20,
+    "losses": 0,
+    "deaths": 0,
+    "name": "AyeDu",
+    "food_drops": true,
+    "night_vision": true,
+    "auto_tome": true,
+    "auto_purchase_unlocks": true,
+    "craft_notifications": true
+}
