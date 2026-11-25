@@ -1,0 +1,14 @@
+{
+  "formatVersion": 1,
+  "world": "world",
+  "generatedAt": "2026-11-25T06:30:01.552336600Z",
+  "bounds": {"minX": -512, "maxX": 512, "minZ": -512, "maxZ": 512},
+  "headerBytes": 28,
+  "levels": [
+    {"scale": 0, "blocksPerPixel": 1, "file": "overworld_scale0.bin", "originPixelX": -512, "originPixelZ": -512, "width": 1025, "height": 1025},
+    {"scale": 1, "blocksPerPixel": 2, "file": "overworld_scale1.bin", "originPixelX": -256, "originPixelZ": -256, "width": 513, "height": 513},
+    {"scale": 2, "blocksPerPixel": 4, "file": "overworld_scale2.bin", "originPixelX": -128, "originPixelZ": -128, "width": 257, "height": 257},
+    {"scale": 3, "blocksPerPixel": 8, "file": "overworld_scale3.bin", "originPixelX": -64, "originPixelZ": -64, "width": 129, "height": 129},
+    {"scale": 4, "blocksPerPixel": 16, "file": "overworld_scale4.bin", "originPixelX": -32, "originPixelZ": -32, "width": 65, "height": 65}
+  ]
+}
